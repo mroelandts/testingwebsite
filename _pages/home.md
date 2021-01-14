@@ -13,3 +13,8 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 </figure>
 
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+
+<figure>
+    <a href="/assets/images/house.jpg"><img src="/assets/images/house.jpg"></a>
+    <figcaption>Image of building try II</figcaption>
+</figure>
