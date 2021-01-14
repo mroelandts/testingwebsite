@@ -23,11 +23,15 @@ Wow the picture realy doesn't wanna right?
 
 {% include figure image_path="/assets/images/house.jpg" alt="The house picture" caption="It is a house OKAY!" %}
 
-
 X try:
-
 <figure>
   <img src="/assets/images/house.jpg" alt="It is a house OKAY!">
   <figcaption>The house picture.</figcaption>
+</figure>
+
+Last try:
+<figure>
+    <a href="/assets/images/house.jpg"><img src="/assets/images/house.jpg" alt="It is a house OKAY!"></a>
+    <figcaption>Image of building try II</figcaption>
 </figure>
 
