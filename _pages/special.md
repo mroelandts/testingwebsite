@@ -1,4 +1,5 @@
 ---
+permalink: /special/
 title: "Markup: Another Post with Images"
 excerpt: "Examples and code for displaying images in posts."
 ---
